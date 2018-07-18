@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AlwaysReloadScript</key>
+	<true/>
+	<key>ArtboardPresetsList-ExpandedTitles</key>
+	<array>
+		<string>iOS Devices</string>
+		<string>Responsive Web Design</string>
+		<string>Material Design</string>
+		<string>Paper Sizes</string>
+	</array>
+	<key>BITApplicationDidEnterBackgroundTime</key>
+	<real>1531855969.747036</real>
+	<key>BITApplicationWasLaunched</key>
+	<true/>
+	<key>ECLogging</key>
+	<dict>
+		<key>Channels</key>
+		<dict>
+			<key>Assertion</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Handlers</key>
+				<array>
+					<string>NSLog</string>
+					<string>Assertion</string>
+				</array>
+			</dict>
+			<key>BCLicense</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<false/>
+			</dict>
+			<key>Error</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Handlers</key>
+				<array>
+					<string>NSLog</string>
+				</array>
+			</dict>
+			<key>License Manager</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Handlers</key>
+				<array>
+					<string>NSLog</string>
+				</array>
+			</dict>
+			<key>MSDocument Reader</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<false/>
+			</dict>
+			<key>Plugin Deprecated</key>
+			<dict>
+				<key>Context</key>
+				<integer>8</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Handlers</key>
+				<array>
+					<string>NSLog</string>
+					<string>File</string>
+				</array>
+			</dict>
+			<key>Plugin Developer</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Handlers</key>
+				<array>
+					<string>NSLog</string>
+					<string>File</string>
+				</array>
+			</dict>
+			<key>Plugin Output</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Handlers</key>
+				<array>
+					<string>File</string>
+				</array>
+			</dict>
+			<key>Plugin Updating</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<false/>
+			</dict>
+			<key>Scripting Legacy</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Handlers</key>
+				<array>
+					<string>NSLog</string>
+				</array>
+			</dict>
+			<key>Sparkle</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<false/>
+			</dict>
+			<key>Welcome</key>
+			<dict>
+				<key>Context</key>
+				<integer>32768</integer>
+				<key>Enabled</key>
+				<false/>
+			</dict>
+		</dict>
+		<key>Handlers</key>
+		<dict>
+			<key>ECAssertionHandler</key>
+			<dict>
+				<key>Default</key>
+				<false/>
+			</dict>
+			<key>ECErrorPresenterHandler</key>
+			<dict>
+				<key>Default</key>
+				<false/>
+			</dict>
+			<key>ECLogHandlerFile</key>
+			<dict>
+				<key>Default</key>
+				<true/>
+			</dict>
+			<key>ECLogHandlerNSLog</key>
+			<dict>
+				<key>Default</key>
+				<true/>
+			</dict>
+		</dict>
+		<key>Version</key>
+		<integer>9</integer>
+	</dict>
+	<key>HockeySDKAutomaticallySendCrashReports</key>
+	<false/>
+	<key>HockeySDKCrashReportActivated</key>
+	<true/>
+	<key>ICSyncFFCraftSyncPerformance</key>
+	<true/>
+	<key>IncludeLegacyPlugins</key>
+	<true/>
+	<key>JPGQuality</key>
+	<string>0.9</string>
+	<key>MSNormalEventDrawSelection</key>
+	<true/>
+	<key>MSPluginManagerNumberOfIncompatiblePluginsDisabled</key>
+	<integer>0</integer>
+	<key>Manage Symbols Tab Index</key>
+	<integer>2</integer>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Desktop</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{1052, 778}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{1212, 732}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSSplitView Subview Frames com.bohemiancoding.sketch.splitview</key>
+	<array>
+		<string>0.000000, 0.000000, 273.000000, 839.000000, NO, NO</string>
+		<string>274.000000, 0.000000, 952.000000, 839.000000, NO, NO</string>
+		<string>1227.000000, 0.000000, 213.000000, 839.000000, NO, NO</string>
+	</array>
+	<key>NSToolbar Configuration Preferences</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
+	<dict>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSToolbar Configuration com.bohemiancoding.toolbar.sketch.3b1</key>
+	<dict>
+		<key>TB Default Item Identifiers</key>
+		<array>
+			<string>MSInsertMenuAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSGroupAction</string>
+			<string>MSUngroupAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSCreateSymbolAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSZoomAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSEditAction</string>
+			<string>MSTransformAction</string>
+			<string>MSRotateAction</string>
+			<string>MSFlattenAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSMaskWithShapeAction</string>
+			<string>MSScaleAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSUnionAction</string>
+			<string>MSSubtractAction</string>
+			<string>MSIntersectAction</string>
+			<string>MSDifferenceAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSMoveForwardAction</string>
+			<string>MSMoveBackwardAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSAddFlowAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSOpenPreviewAction</string>
+			<string>MSCloudAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSViewMenuAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSExportAction</string>
+		</array>
+		<key>TB Display Mode</key>
+		<integer>2</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>2</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Item Identifiers</key>
+		<array>
+			<string>MSInsertMenuAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSTriangleShapeAction</string>
+			<string>MSPolygonShapeAction</string>
+			<string>MSStarShapeAction</string>
+			<string>MSShapeAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSGroupAction</string>
+			<string>MSUngroupAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSCreateSymbolAction</string>
+			<string>MSInsertSymbolAction</string>
+			<string>MSInsertSharedTextAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSZoomAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSEditAction</string>
+			<string>MSTransformAction</string>
+			<string>MSRotateAction</string>
+			<string>MSFlattenAction</string>
+			<string>MSConvertToOutlinesAction</string>
+			<string>MSScissorsAction</string>
+			<string>MSSmartRotateAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSMaskWithShapeAction</string>
+			<string>MSScaleAction</string>
+			<string>MSToolsMenuAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSUnionAction</string>
+			<string>MSSubtractAction</string>
+			<string>MSIntersectAction</string>
+			<string>MSDifferenceAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSAddFlowAction</string>
+			<string>MSToolbarShowColorsItemIdentifier</string>
+			<string>MSToolbarShowFontsItemIdentifier</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSOpenPreviewAction</string>
+			<string>MSMoveForwardAction</string>
+			<string>MSMoveBackwardAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSCloudAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSRoundToPixelAction</string>
+			<string>MSViewMenuAction</string>
+			<string>NSToolbarFlexibleSpaceItem</string>
+			<string>MSExportAction</string>
+		</array>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSUserKeyEquivalents</key>
+	<dict>
+		<key>LayerCreate Shared Style</key>
+		<string>~^$s</string>
+		<key>ArrangeAlignBottom</key>
+		<string>@~^$↓</string>
+		<key>ArrangeAlignLeft</key>
+		<string>@~^$←</string>
+		<key>ArrangeAlignRight</key>
+		<string>@~^$→</string>
+		<key>ArrangeAlignTop</key>
+		<string>@~^$↑</string>
+		<key>PluginsIcon FontConvert Icons [Outlines]</key>
+		<string>@~^$o</string>
+		<key>Plugins🏃🏿 RunnerApply</key>
+		<string>@~^$a</string>
+		<key>Plugins🏃🏿 RunnerCreate</key>
+		<string>@~^$c</string>
+		<key>Plugins🏃🏿 RunnerGo To</key>
+		<string>@~^$g</string>
+		<key>Plugins🏃🏿 RunnerInsert</key>
+		<string>@~^$n</string>
+		<key>ViewLayer ListCollapse All Groups</key>
+		<string>@~^$s</string>
+		<key>Material Design Icons</key>
+		<string>@~^$i</string>
+	</dict>
+	<key>NSWindow Frame NSColorPanel</key>
+	<string>1449 698 231 329 0 0 1680 1027 </string>
+	<key>NSWindow Frame NSMovePanelAutosaveName</key>
+	<string>-1133 1045 346 120 -1920 0 1920 1200 </string>
+	<key>NSWindow Frame NSSpellCheckerSpellingPanel</key>
+	<string>1249 769 431 258 0 0 1680 1027 </string>
+	<key>NSWindow Frame SUStatusFrame</key>
+	<string>760 803 400 129 0 0 1920 1200 </string>
+	<key>NSWindow Frame SUUpdateAlert</key>
+	<string>610 434 700 622 0 0 1920 1200 </string>
+	<key>NSWindow Frame SUUpdateAlertFrame</key>
+	<string>352 300 575 392 0 0 1280 777 </string>
+	<key>NSWindow Frame Sketch Window</key>
+	<string>319 219 1440 861 0 0 1920 1200 </string>
+	<key>NSWindow Frame WelcomeToSketchWindow</key>
+	<string>92 727 730 473 0 0 1920 1200 </string>
+	<key>NSWindow Frame symbolsheet</key>
+	<string>459 494 804 660 0 0 1920 1200 </string>
+	<key>PDGoogleAnalytics|interval.foreground|hour</key>
+	<real>1493225559.6798201</real>
+	<key>PDGoogleAnalytics|interval|daily</key>
+	<real>1493222850.1424091</real>
+	<key>PDGoogleAnalytics|interval|monthly</key>
+	<real>1492710614.236006</real>
+	<key>PDGoogleAnalytics|interval|weekly</key>
+	<real>1492610790.8094161</real>
+	<key>PMPrintingExpandedStateForPrint2</key>
+	<false/>
+	<key>SMLanguage</key>
+	<string>en</string>
+	<key>SMVersion</key>
+	<string>2.7.5</string>
+	<key>SUAutomaticallyUpdate</key>
+	<false/>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>https://www.sketchapp.com/appcast3.xml</string>
+	<key>SUHasLaunchedBefore</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2018-07-17T19:31:58Z</date>
+	<key>SUScheduledCheckInterval</key>
+	<real>86400</real>
+	<key>SUSendProfileInfo</key>
+	<false/>
+	<key>SUUpdateRelaunchingMarker</key>
+	<false/>
+	<key>SketchFocusSettings</key>
+	<dict>
+		<key>autosave</key>
+		<true/>
+		<key>color</key>
+		<string>#FFAA00</string>
+		<key>lastShownProMessageId</key>
+		<integer>2</integer>
+		<key>launchCount</key>
+		<integer>2</integer>
+		<key>rememberWindowPosition</key>
+		<true/>
+		<key>rememberWindowSize</key>
+		<true/>
+		<key>windowHeight</key>
+		<real>420</real>
+		<key>windowWidth</key>
+		<real>290</real>
+		<key>windowX</key>
+		<real>1135</real>
+		<key>windowY</key>
+		<real>1027</real>
+		<key>zoomIntoLayers</key>
+		<true/>
+	</dict>
+	<key>SketchRunner-savedVersionJSON</key>
+	<dict>
+		<key>currentVersion</key>
+		<string>0.9.4</string>
+		<key>domain</key>
+		<string>com.sketchrunner.runner</string>
+		<key>downloadFromWebsiteURL</key>
+		<string>https://sketchrunner.github.io/runner-info/Runner.zip</string>
+		<key>downloadURL</key>
+		<string>https://sketchrunner.github.io/runner-info/Runner.zip</string>
+		<key>releaseNotesURL</key>
+		<string>https://sketchrunner.github.io/runner-info/releasenotes.html</string>
+	</dict>
+	<key>SketchRunnerDeviceID</key>
+	<string>7D771A6C-4D5B-43F8-90CF-F47121E40B39</string>
+	<key>SketchRunnerDidDismissTabKeyHint</key>
+	<integer>1</integer>
+	<key>SketchRunnerInputHistory</key>
+	<array>
+		<dict>
+			<key>category</key>
+			<string>create</string>
+			<key>userInput</key>
+			<string>chem-detection-scale</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>run</string>
+			<key>userInput</key>
+			<string>but</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>run</string>
+			<key>userInput</key>
+			<string>butt</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>create</string>
+			<key>userInput</key>
+			<string>detection-scale</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>run</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>run</string>
+			<key>userInput</key>
+			<string>reson</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>insert</string>
+			<key>userInput</key>
+			<string>light</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>run</string>
+			<key>userInput</key>
+			<string>perfect</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>insert</string>
+			<key>userInput</key>
+			<string>had</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>install</string>
+			<key>userInput</key>
+			<string>day</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>install</string>
+			<key>userInput</key>
+			<string>flowexport</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>run</string>
+			<key>userInput</key>
+			<string>copy width</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>insert</string>
+			<key>userInput</key>
+			<string>build</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>insert</string>
+			<key>userInput</key>
+			<string>icon</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>create</string>
+			<key>userInput</key>
+			<string>advanced-toggle</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>insert</string>
+			<key>userInput</key>
+			<string>statelev</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>insert</string>
+			<key>userInput</key>
+			<string>batterycalc</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>insert</string>
+			<key>userInput</key>
+			<string>switc</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>create</string>
+			<key>userInput</key>
+			<string>presentation-context</string>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>install</string>
+			<key>userInput</key>
+			<string>svginsert</string>
+		</dict>
+	</array>
+	<key>WebIconDatabaseDirectoryDefaultsKey</key>
+	<string>~/Library/Icons</string>
+	<key>WebKitCacheModelPreferenceKey</key>
+	<integer>1</integer>
+	<key>WebKitDeveloperExtras</key>
+	<true/>
+	<key>WebKitPluginsEnabled</key>
+	<false/>
+	<key>analytics|interval.foreground|hour</key>
+	<real>1524766436.3741441</real>
+	<key>analytics|interval|daily</key>
+	<real>1524758498.938386</real>
+	<key>analytics|interval|monthly</key>
+	<real>1511998042.179904</real>
+	<key>analytics|interval|weekly</key>
+	<real>1524669962.4680619</real>
+	<key>animateZoom</key>
+	<true/>
+	<key>artboardExportingOrder</key>
+	<integer>0</integer>
+	<key>asset libraries</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGQUJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoK8QDwcIDhobHCAnLDA0OTo7P1UkbnVsbNIJCgsNWk5TLm9iamVjdHNWJGNsYXNz
+	oQyAAoAI1g8QEQoSExQVFhcYGVlsaWJyYXJ5SURYYm9va21hcmtXZW5hYmxlZFRuYW1l
+	V3ZlcnNpb26ABIAFCYAHgAMQAVRhdGFrXxAkNzgzOEMzQ0QtQjkxRi00QTM4LUI2Rjct
+	OTg4N0QzNUYzNTU00h0KHh9XTlMuZGF0YU8RBIhib29riAQAAAAABBAwAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AwAABAAAAAMDAAAAAgAABQAAAAEBAABV
+	c2VycwAAAAcAAAABAQAAanFsNDc5MQAEAAAAAQEAAGNvZGUHAAAAAQEAAHRoMi1naXQA
+	CQAAAAEBAAByZXNvdXJjZXMAAAAKAAAAAQEAAF9UZW1wbGF0ZXMAABAAAAABAQAARGVz
+	aWduIFRlbXBsYXRlcwYAAAABAQAAU2tldGNoAAALAAAAAQEAAGF0YWsuc2tldGNoACQA
+	AAABBgAAEAAAACAAAAAwAAAAPAAAAEwAAABgAAAAdAAAAIwAAACcAAAACAAAAAQDAACP
+	cgYAAAAAAAgAAAAEAwAApmELAAAAAAAIAAAABAMAAEUb/wEAAAAACAAAAAQDAACvY6EQ
+	AAAAAAgAAAAEAwAAH2ioEAAAAAAIAAAABAMAAGZoqBAAAAAACAAAAAQDAABnaKgQAAAA
+	AAgAAAAEAwAAO2moEAAAAAAIAAAABAMAAD1pqBAAAAAAJAAAAAEGAADcAAAA7AAAAPwA
+	AAAMAQAAHAEAACwBAAA8AQAATAEAAFwBAAAIAAAAAAQAAEG/n/TEAAAAGAAAAAECAAAB
+	AAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAcAAAAAAAAABAAAAAMDAADIcuB/
+	CAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAAACu6AAA
+	AAgAAAAABAAAQbrn7+gAAAAkAAAAAQEAAEFBODA5MjVELTU3MUUtM0U5Mi04MzcxLTcx
+	QzgxMjNFQzhCNRgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAv
+	AAAAAAAAAAEFAADlAAAAAQIAADc4ZmE4ODM1ZTNiOTE3MWVlZTUxYWIxMmY3OTA1ODQz
+	YWFjYjk3OTc7MDAwMDAwMDA7MDAwMDAwMDA7MDAwMDAwMDAwMDAwMDAyMDtjb20uYXBw
+	bGUuYXBwLXNhbmRib3gucmVhZC13cml0ZTswMDAwMDAwMTswMTAwMDAwNDswMDAwMDAw
+	MDEwYTg2OTNkOy91c2Vycy9qcWw0NzkxL2NvZGUvdGgyLWdpdC9yZXNvdXJjZXMvX3Rl
+	bXBsYXRlcy9kZXNpZ24gdGVtcGxhdGVzL3NrZXRjaC9hdGFrLnNrZXRjaAAAAADYAAAA
+	/v///wEAAAAAAAAAEQAAAAQQAACwAAAAAAAAAAUQAABsAQAAAAAAABAQAACoAQAAAAAA
+	AEAQAACYAQAAAAAAAAIgAAB0AgAAAAAAAAUgAADkAQAAAAAAABAgAAD0AQAAAAAAABEg
+	AAAoAgAAAAAAABIgAAAIAgAAAAAAABMgAAAYAgAAAAAAACAgAABUAgAAAAAAADAgAACA
+	AgAAAAAAAAHAAADIAQAAAAAAABHAAAAgAAAAAAAAABLAAADYAQAAAAAAABDQAAAEAAAA
+	AAAAAIDwAACIAgAAAAAAAIAG0iEiIyRaJGNsYXNzbmFtZVgkY2xhc3Nlc11OU011dGFi
+	bGVEYXRhoyMlJlZOU0RhdGFYTlNPYmplY3TSISIoKV8QEk1TVXNlckFzc2V0TGlicmFy
+	eaMqKyZfEBJNU1VzZXJBc3NldExpYnJhcnleTVNBc3NldExpYnJhcnnSISItLl5OU011
+	dGFibGVBcnJheaMtLyZXTlNBcnJhedIJCjEzoTKACoAO1Q8KERITNTY3OBmADIANCIAL
+	XWlPUyBVSSBEZXNpZ25fECRGNTVCOEM1NS05MEY4LTQzMDMtOTlBQS0xNjdGREQwOUMw
+	MDfSISI8PV5NU0Fzc2V0TGlicmFyeaI+Jl5NU0Fzc2V0TGlicmFyedIhIi9Aoi8mXxAP
+	TlNLZXllZEFyY2hpdmVy0kNERUZYaW50ZXJuYWxUdXNlcoAJgAEACAARABoAIwAtADIA
+	NwBJAE8AVABfAGYAaABqAGwAeQCDAIwAlACZAKEAowClAKYAqACqAKwAsQDYAN0A5QVx
+	BXMFeAWDBYwFmgWeBaUFrgWzBcgFzAXhBfAF9QYEBggGEAYVBhcGGQYbBiYGKAYqBisG
+	LQY7BmIGZwZ2BnkGiAaNBpAGoganBrAGtQa3AAAAAAAAAgEAAAAAAAAARwAAAAAAAAAA
+	AAAAAAAABrk=
+	</data>
+	<key>asset-library-version</key>
+	<integer>3</integer>
+	<key>autoExpandGroupsInLayerList</key>
+	<true/>
+	<key>bitmapFlattenScale</key>
+	<integer>2</integer>
+	<key>cloudDocumentsEnabled</key>
+	<false/>
+	<key>cloudMigratedCredentials</key>
+	<true/>
+	<key>colorForSnapsAndGuides</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NGMSAw
+	IDAAEAGAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVj
+	dF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltiaWttcn2GjpGa
+	rK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY=
+	</data>
+	<key>com.abynim.userflows.backgroundColor</key>
+	<string>Light</string>
+	<key>com.abynim.userflows.conditionFontSize</key>
+	<real>16</real>
+	<key>com.abynim.userflows.connectionStrokeType</key>
+	<string>curved</string>
+	<key>com.abynim.userflows.exportFormat</key>
+	<string>PNG</string>
+	<key>com.abynim.userflows.exportScale</key>
+	<real>2</real>
+	<key>com.abynim.userflows.flowIndicatorAlpha</key>
+	<real>1</real>
+	<key>com.abynim.userflows.flowIndicatorColor</key>
+	<string>#F5A623</string>
+	<key>com.abynim.userflows.fullName</key>
+	<string>Jay Liu</string>
+	<key>com.abynim.userflows.keepOrganized</key>
+	<real>1</real>
+	<key>com.abynim.userflows.minTapArea</key>
+	<real>22</real>
+	<key>com.abynim.userflows.removeAllLinksOption</key>
+	<real>2</real>
+	<key>com.abynim.userflows.scalesDownFlowBitmaps</key>
+	<real>0.0</real>
+	<key>com.abynim.userflows.showConnections</key>
+	<real>1</real>
+	<key>com.abynim.userflows.showModifiedDate</key>
+	<real>1</real>
+	<key>com.abynim.userflows.showsLinkRects</key>
+	<real>1</real>
+	<key>com.abynim.userflows.showsRelinkWarning</key>
+	<real>0.0</real>
+	<key>com.abynim.userflows.strokeWidth</key>
+	<real>3</real>
+	<key>com.abynim.userflows.uuid</key>
+	<string>4017B152-AF1D-4385-8F63-6F74B39CDFD0</string>
+	<key>com.addleimb.framer-inventory.retina</key>
+	<dict>
+		<key>myAutoplay</key>
+		<real>0.0</real>
+		<key>myMinimalExport</key>
+		<real>1</real>
+		<key>myMobile</key>
+		<real>0.0</real>
+		<key>myRetinaEnabled</key>
+		<real>0.0</real>
+		<key>myRetinaString</key>
+		<string>retina</string>
+		<key>myRetinaValue</key>
+		<real>1</real>
+	</dict>
+	<key>com.animaapp.autolayout.platforms</key>
+	<dict>
+		<key>platforms</key>
+		<array>
+			<string>iOS</string>
+			<string>Android</string>
+			<string>Web</string>
+		</array>
+		<key>presets</key>
+		<dict>
+			<key>Android</key>
+			<array>
+				<dict>
+					<key>height</key>
+					<integer>640</integer>
+					<key>title</key>
+					<string>Android Phone</string>
+					<key>width</key>
+					<integer>360</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>960</integer>
+					<key>title</key>
+					<string>Android Tablet 7''</string>
+					<key>width</key>
+					<integer>600</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>1024</integer>
+					<key>title</key>
+					<string>Android Tablet 9''</string>
+					<key>width</key>
+					<integer>768</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>850</integer>
+					<key>title</key>
+					<string>Android Desktop</string>
+					<key>width</key>
+					<integer>1280</integer>
+				</dict>
+			</array>
+			<key>Web</key>
+			<array>
+				<dict>
+					<key>height</key>
+					<integer>1024</integer>
+					<key>title</key>
+					<string>Desktop HD</string>
+					<key>width</key>
+					<integer>1440</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>1024</integer>
+					<key>title</key>
+					<string>Desktop</string>
+					<key>width</key>
+					<integer>1024</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>1024</integer>
+					<key>title</key>
+					<string>Tablet Portrait</string>
+					<key>width</key>
+					<integer>768</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>1024</integer>
+					<key>title</key>
+					<string>Mobile Portrait</string>
+					<key>width</key>
+					<integer>320</integer>
+				</dict>
+			</array>
+			<key>iOS</key>
+			<array>
+				<dict>
+					<key>height</key>
+					<integer>480</integer>
+					<key>scale</key>
+					<integer>2</integer>
+					<key>title</key>
+					<string>iPhone 4S</string>
+					<key>width</key>
+					<integer>320</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>568</integer>
+					<key>scale</key>
+					<integer>2</integer>
+					<key>title</key>
+					<string>iPhone SE</string>
+					<key>width</key>
+					<integer>320</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>667</integer>
+					<key>scale</key>
+					<integer>2</integer>
+					<key>title</key>
+					<string>iPhone 7</string>
+					<key>width</key>
+					<integer>375</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>736</integer>
+					<key>scale</key>
+					<integer>3</integer>
+					<key>title</key>
+					<string>iPhone 7+</string>
+					<key>width</key>
+					<integer>414</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>1024</integer>
+					<key>scale</key>
+					<integer>2</integer>
+					<key>title</key>
+					<string>iPad Air</string>
+					<key>width</key>
+					<integer>768</integer>
+				</dict>
+				<dict>
+					<key>height</key>
+					<integer>1366</integer>
+					<key>scale</key>
+					<integer>2</integer>
+					<key>title</key>
+					<string>iPad Pro</string>
+					<key>width</key>
+					<integer>1024</integer>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>com.animaapp.did-show-introducinglaunchpad</key>
+	<true/>
+	<key>com.animaapp.did_show_update_indicator.0.3.18</key>
+	<true/>
+	<key>com.animaapp.hideAutoLayout</key>
+	<true/>
+	<key>com.animaapp.hideLaunchpad</key>
+	<true/>
+	<key>com.ashung.hung.automate_sketch</key>
+	<dict/>
+	<key>com.davidwilliames.pdf-export</key>
+	<dict>
+		<key>excludeWithPrefix</key>
+		<real>0.0</real>
+		<key>exclusionPrefix</key>
+		<string>@</string>
+		<key>exportOrder</key>
+		<real>5</real>
+		<key>exportToImages</key>
+		<real>0.0</real>
+		<key>imageExportScale</key>
+		<string>2</string>
+		<key>includeSymbolArtboards</key>
+		<real>1</real>
+	</dict>
+	<key>com.invisionlabs.Sync.domain</key>
+	<string></string>
+	<key>com.jacopocolo.sketch.p5.p5code</key>
+	<string>
+
+//An array with your data
+var data = [4, 8, 15, 16, 23, 42];
+//Scale is a simple multiplyer to scale bars horizontally
+//try to tweak it
+var scale = 10;
+//How tall you want each bar to be
+var barHeight = 20;
+//The margin between each bar
+var margin = 5;
+//The height of a single bar + margin
+var barPlusMargin = barHeight+margin
+//A simple function to scale the artboard based
+//on the biggest value in the array
+var max = data.reduce(function(a, b) {
+    return Math.max(a, b);
+});
+
+var incrementBy = 21;
+
+function setup() {
+  //Let's create a canvas. The width is the biggest value in
+  //the array. The height is bar + how many values in the array
+  createCanvas(1000, 1000);
+}
+
+
+function draw() {
+  
+noFill();
+beginShape();
+
+  vertex(incrementBy * 0, 0);
+vertex(incrementBy * 0, 1000);
+vertex(incrementBy * 1, 1000);
+vertex(incrementBy * 1, 0);
+vertex(incrementBy * 2, 0);
+vertex(incrementBy * 2, 1000);
+vertex(incrementBy * 3, 1000);
+vertex(incrementBy * 3, 0);
+
+endShape();
+}</string>
+	<key>com.kenmooredesign.sketchplugin.NextArtboard.animateZoomWarningSeen</key>
+	<true/>
+	<key>com.martinsteven.sketch-find-and-replace</key>
+	<dict>
+		<key>caseReplace</key>
+		<real>1</real>
+		<key>caseSensitivity</key>
+		<real>0.0</real>
+		<key>matchWhere</key>
+		<real>1</real>
+		<key>matchWhole</key>
+		<real>1</real>
+	</dict>
+	<key>com.matt-curtis.sketch.constraints.MCUserDefaultsKeyFadeUIWhenUnfocused</key>
+	<true/>
+	<key>com.turbobabr.share-as-is.uuid</key>
+	<string>084916BA-51FA-4E6D-AF77-BF9BE6348FDB</string>
+	<key>copiedHeight</key>
+	<real>19</real>
+	<key>copiedWidth</key>
+	<real>96</real>
+	<key>copiedX</key>
+	<real>371</real>
+	<key>copiedY</key>
+	<real>86</real>
+	<key>currentColorMode</key>
+	<false/>
+	<key>dataSupplier</key>
+	<false/>
+	<key>defaultBitmapEditMode</key>
+	<integer>0</integer>
+	<key>defaultFlowAnimationTypeKey</key>
+	<integer>-1</integer>
+	<key>dontParseVectorImages</key>
+	<false/>
+	<key>drawLayerSelection</key>
+	<true/>
+	<key>enableAutoSaveAndVersions</key>
+	<true/>
+	<key>enableFlowInteraction</key>
+	<false/>
+	<key>enableSliceInteraction</key>
+	<true/>
+	<key>fitToPixelBoundsOnAlign</key>
+	<false/>
+	<key>fitToPixelBoundsOnResize</key>
+	<true/>
+	<key>gb_segCircle_seg</key>
+	<string>{"el":[{"label":"Outer radius","data":104},{"label":"Number of segments","data":4},{"label":"Thickness","data":61},{"label":"Bottom cutout angle","data":0}]}</string>
+	<key>google.analytics.uuid</key>
+	<string>78DB36D2-C4F9-41C0-AD19-095426EF4120</string>
+	<key>gridColorDark</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPEBww
+	LjMzMzMzMzMzMzMgMC4yMDAxNTIwNzQ0IDAAEAGAAtIQERITWiRjbGFzc25hbWVYJGNs
+	YXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290
+	gAEIERojLTI3O0FITltigYOFipWepqmyxMfMAAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAA
+	AAAAAAAAAM4=
+	</data>
+	<key>gridColorLight</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKMHCA9VJG51bGzTCQoLDA0OV05TV2hpdGVcTlNDb2xvclNwYWNlViRjbGFzc00w
+	LjY2NjY2NjY2NjcAEAOAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIS
+	FFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FIUF1k
+	cnR2e4aPl5qjtbi9AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAL8=
+	</data>
+	<key>gridDrawStyle</key>
+	<integer>0</integer>
+	<key>hasShown23Welcome</key>
+	<true/>
+	<key>hasShownMirrorIntro</key>
+	<true/>
+	<key>icsync.identity</key>
+	<string>8b1b011e-6482-4126-87f3-8f3dfa91a47d</string>
+	<key>ignoreMASReceipt</key>
+	<true/>
+	<key>inspectorShowColorPicker</key>
+	<true/>
+	<key>inspectorShowDocumentColors</key>
+	<true/>
+	<key>inspectorShowDocumentGradients</key>
+	<true/>
+	<key>inspectorShowGlobalColors</key>
+	<true/>
+	<key>inspectorShowGlobalGradients</key>
+	<true/>
+	<key>inspectorShowGlobalPatterns</key>
+	<integer>1</integer>
+	<key>inspectorVisible</key>
+	<true/>
+	<key>internal-asset-libraries</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGJSZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKcHCA4YGRohVSRudWxs0gkKCw1aTlMub2JqZWN0c1YkY2xhc3OhDIACgAbVDwoQ
+	ERITFBUWF1lsaWJyYXJ5SURXZW5hYmxlZFRuYW1lV3ZlcnNpb26ABIAFCIADEANdaU9T
+	IFVJIERlc2lnbl8QJEY1NUI4QzU1LTkwRjgtNDMwMy05OUFBLTE2N0ZERDA5QzAwN9Ib
+	HB0eWiRjbGFzc25hbWVYJGNsYXNzZXNeTVNBc3NldExpYnJhcnmiHyBeTVNBc3NldExp
+	YnJhcnlYTlNPYmplY3TSGxwiI15OU011dGFibGVBcnJheaMiJCBXTlNBcnJheV8QD05T
+	S2V5ZWRBcmNoaXZlctEnKFRyb290gAEACAARABoAIwAtADIANwA/AEUASgBVAFwAXgBg
+	AGIAbQB3AH8AhACMAI4AkACRAJMAlQCjAMoAzwDaAOMA8gD1AQQBDQESASEBJQEtAT8B
+	QgFHAAAAAAAAAgEAAAAAAAAAKQAAAAAAAAAAAAAAAAAAAUk=
+	</data>
+	<key>io.craftbot.sketch.map-generator</key>
+	<dict>
+		<key>google.address</key>
+		<string>cambridge, ma</string>
+		<key>google.remember</key>
+		<string>1</string>
+		<key>google.style</key>
+		<string></string>
+		<key>google.type</key>
+		<real>1</real>
+		<key>google.zoom</key>
+		<real>15</real>
+		<key>mapbox.address</key>
+		<string>cambridge, ma</string>
+		<key>mapbox.remember</key>
+		<string>1</string>
+		<key>mapbox.type</key>
+		<real>0.0</real>
+		<key>mapbox.zoom</key>
+		<real>15</real>
+	</dict>
+	<key>io.eduardogomez.sketch.map-generator</key>
+	<dict>
+		<key>address</key>
+		<string>cambridge, MA</string>
+		<key>remember</key>
+		<string>0</string>
+		<key>style</key>
+		<string></string>
+		<key>type</key>
+		<real>0.0</real>
+		<key>zoom</key>
+		<real>15</real>
+	</dict>
+	<key>isComponentsPanelEnabled</key>
+	<false/>
+	<key>lastReleaseNotes</key>
+	<integer>26313</integer>
+	<key>lastRunScript</key>
+	<string>log(context.document)</string>
+	<key>lastRunSketchVersion</key>
+	<string>51.1</string>
+	<key>layerListCurrentWidth</key>
+	<integer>273</integer>
+	<key>layerListVisible</key>
+	<true/>
+	<key>moveNewSymbolsToSeparatePage</key>
+	<true/>
+	<key>nudgeDistanceBig</key>
+	<real>8</real>
+	<key>nudgeDistanceSmall</key>
+	<real>1</real>
+	<key>pageListHeight</key>
+	<real>100</real>
+	<key>preferencesSelectedTabIndex</key>
+	<integer>4</integer>
+	<key>remote-asset-libraries</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGUVJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoK8QEQcIDiIjJCorMTI+QkNERUlOVSRudWxs0gkKCw1aTlMub2JqZWN0c1YkY2xh
+	c3OhDIACgBDaDwoQERITFBUWFxgZGhscHR4fIBhcb3JpZ2luYWxOYW1lV2VuYWJsZWRf
+	EBB2ZXJzaW9uT2ZMaWJyYXJ5WGluZm9UZXh0V3ZlcnNpb25cdXBkYXRpbmdJbmZvWmFw
+	cGNhc3RVUkxZbGlicmFyeUlEVG5hbWWAA4APCIAEgAgQA4AJgAWAAIADXxAdQXBwbGUg
+	aU9TIFVJIERlc2lnbiBSZXNvdXJjZXNVMC4wLjDTJQomICgpV05TLmJhc2VbTlMucmVs
+	YXRpdmWAAIAHgAZfEDdodHRwczovL2RldmVsb3Blci5hcHBsZS5jb20vZGVzaWduL2Rv
+	d25sb2Fkcy9za2V0Y2gucnNz0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1VOU1VSTKIu
+	MFhOU09iamVjdFNpT1PWMzQKNTY3OCA6Ozw9XxAQbmV3VmVyc2lvbk51bWJlcllzaGFy
+	ZUxpbmtbZG93bmxvYWRVUkxfEA9kb3dubG9hZFNpemVLZXlbbGlicmFyeU5hbWWADIAA
+	gA6AChIATsBDgA3TJQomIChBgACAB4ALXxBTaHR0cHM6Ly9kZXZpbWFnZXMtY2RuLmFw
+	cGxlLmNvbS9kZXNpZ24vZG93bmxvYWRzL0FwcGxlLWlPUy1VSS1Ta2V0Y2gtTGlicmFy
+	eS0xMi5kbWdSMTJcQXBwbGUgaU9TIFVJ0iwtRkdfEBpNU0Fzc2V0TGlicmFyeVVwZGF0
+	aW5nSW5mb6JIMF8QGk1TQXNzZXRMaWJyYXJ5VXBkYXRpbmdJbmZv0iwtSktfEBRNU1Jl
+	bW90ZUFzc2V0TGlicmFyeaNMTTBfEBRNU1JlbW90ZUFzc2V0TGlicmFyeV5NU0Fzc2V0
+	TGlicmFyedIsLU9QV05TQXJyYXmiTzBfEA9OU0tleWVkQXJjaGl2ZXLRU1RUcm9vdIAB
+	AAgAEQAaACMALQAyADcASwBRAFYAYQBoAGoAbABuAIMAkACYAKsAtAC8AMkA1ADeAOMA
+	5QDnAOgA6gDsAO4A8ADyAPQA9gEWARwBIwErATcBOQE7AT0BdwF8AYcBkAGWAZkBogGm
+	AbMBxgHQAdwB7gH6AfwB/gIAAgICBwIJAhACEgIUAhYCbAJvAnwCgQKeAqECvgLDAtoC
+	3gL1AwQDCQMRAxQDJgMpAy4AAAAAAAACAQAAAAAAAABVAAAAAAAAAAAAAAAAAAADMA==
+	</data>
+	<key>rulersVisible</key>
+	<false/>
+	<key>scaleOrigin</key>
+	<integer>8</integer>
+	<key>selectedArtboardPresetOrientation</key>
+	<integer>0</integer>
+	<key>selectedArtboardPresetsCategory</key>
+	<integer>2</integer>
+	<key>shouldWarnAboutFlatten</key>
+	<true/>
+	<key>showArtboardShadow</key>
+	<true/>
+	<key>showLayerHighlight</key>
+	<true/>
+	<key>showPixelLines</key>
+	<true/>
+	<key>showedWarningForExpiringLicense</key>
+	<integer>30</integer>
+	<key>sk_offset</key>
+	<string>4</string>
+	<key>suffixDuplicatedLayers</key>
+	<true/>
+	<key>symbols.create-from-artboard.alert</key>
+	<true/>
+	<key>useAlignmentGuides</key>
+	<true/>
+	<key>user-asset-libraries</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGQEFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoK8QDwcIDxscHSMkKi81Njc7PFUkbnVsbNIJCgsOWk5TLm9iamVjdHNWJGNsYXNz
+	ogwNgAKACYAO1hAKERITFBUWFxgZGllsaWJyYXJ5SURXZW5hYmxlZFRuYW1lU3VybFd2
+	ZXJzaW9ugASACAmAA4AFEANfEBFhdGFrLXNlbnNvci1pY29uc18QJDJBNzk5OTQwLTM2
+	NDQtNDg2OC05MDNBLUZENzYxRjVFMjMzRdMeCh8gISJXTlMuYmFzZVtOUy5yZWxhdGl2
+	ZYAAgAeABl8QUGZpbGU6Ly8vVXNlcnMvanFsNDc5MS9jb2RlL3RoMi1naXQvYXRhay1z
+	ZW5zb3JzL19Db21tb24vYXRhay1zZW5zb3ItaWNvbnMuc2tldGNo0iUmJyhaJGNsYXNz
+	bmFtZVgkY2xhc3Nlc1VOU1VSTKInKVhOU09iamVjdNIlJissXxASTVNVc2VyQXNzZXRM
+	aWJyYXJ5oy0uKV8QEk1TVXNlckFzc2V0TGlicmFyeV5NU0Fzc2V0TGlicmFyedYQChES
+	ExQwFhczNBqAC4AICYAKgAxUYXRha18QJDc4MzhDM0NELUI5MUYtNEEzOC1CNkY3LTk4
+	ODdEMzVGMzU1NNMeCh8gITqAAIAHgA1fEF1maWxlOi8vL1VzZXJzL2pxbDQ3OTEvY29k
+	ZS90aDItZ2l0L3Jlc291cmNlcy9fVGVtcGxhdGVzL0Rlc2lnbiUyMFRlbXBsYXRlcy9T
+	a2V0Y2gvYXRhay5za2V0Y2jSJSY9Pl5OU011dGFibGVBcnJheaM9PylXTlNBcnJheV8Q
+	D05TS2V5ZWRBcmNoaXZlctFCQ1Ryb290gAEACAARABoAIwAtADIANwBJAE8AVABfAGYA
+	aQBrAG0AbwB8AIYAjgCTAJcAnwChAKMApACmAKgAqgC+AOUA7AD0AQABAgEEAQYBWQFe
+	AWkBcgF4AXsBhAGJAZ4BogG3AcYB0wHVAdcB2AHaAdwB4QIIAg8CEQITAhUCdQJ6AokC
+	jQKVAqcCqgKvAAAAAAAAAgEAAAAAAAAARAAAAAAAAAAAAAAAAAAAArE=
+	</data>
+	<key>userDidClickFrequentColors</key>
+	<true/>
+	<key>vectorPointMode</key>
+	<integer>0</integer>
+	<key>views.messages.overwrite-existing-files</key>
+	<true/>
+	<key>zoomInOnSelection</key>
+	<false/>
+</dict>
+</plist>

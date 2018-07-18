@@ -1,0 +1,13 @@
+{
+  "name": "macos-prefs",
+  "version": "1.0.0",
+  "description": "Keyboard shortcuts",
+  "main": " ",
+  "author": "Jay Liu <jayliu50@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "get": "scripts/get.zsh com.bohemiancoding.sketch3.plist || scripts/get.zsh com.googlecode.iterm2.plist",
+    "set": "scripts/set.zsh com.bohemiancoding.sketch3.plist || scripts/set.zsh com.googlecode.iterm2.plist"
+  }
+}
